@@ -14,8 +14,6 @@ Facilitar o compartilhamento de materiais entre os alunos e manter os conteúdos
 - 💻 Atividades — exercícios e atividades realizadas durante o curso
 - 🐍 Python — exercícios e projetos relacionados à programação
 - 🌐 Redes — conteúdos e atividades sobre redes de computadores
-- 🐧 Linux — comandos, exercícios e materiais relacionados ao Linux
-- 📂 Projetos — projetos desenvolvidos pela turma
 
 🤝 Como contribuir
 
